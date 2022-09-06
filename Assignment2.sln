@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment2", "Assignment2\Assignment2.vcxproj", "{ED0DF3DF-7E3E-46FF-812F-09C20B96C174}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LevinsonDurbin", "..\..\..\..\Documents\Visual Studio 2010\Projects\LevinsonDurbin\LevinsonDurbin\LevinsonDurbin.vcxproj", "{F2B21469-1CD1-4C29-A621-29F0369215E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0DF3DF-7E3E-46FF-812F-09C20B96C174}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED0DF3DF-7E3E-46FF-812F-09C20B96C174}.Debug|Win32.Build.0 = Debug|Win32
+		{ED0DF3DF-7E3E-46FF-812F-09C20B96C174}.Release|Win32.ActiveCfg = Release|Win32
+		{ED0DF3DF-7E3E-46FF-812F-09C20B96C174}.Release|Win32.Build.0 = Release|Win32
+		{F2B21469-1CD1-4C29-A621-29F0369215E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2B21469-1CD1-4C29-A621-29F0369215E0}.Debug|Win32.Build.0 = Debug|Win32
+		{F2B21469-1CD1-4C29-A621-29F0369215E0}.Release|Win32.ActiveCfg = Release|Win32
+		{F2B21469-1CD1-4C29-A621-29F0369215E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
